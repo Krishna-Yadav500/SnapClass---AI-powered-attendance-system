@@ -8,6 +8,8 @@ pandas
 scikit-learn
 dlib-bin
 
+face_recognition_models
+
 
 #git+https://github.com/ageitgey/face_recognition_models
 
