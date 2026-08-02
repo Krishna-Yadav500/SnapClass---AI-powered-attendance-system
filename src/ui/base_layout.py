@@ -16,6 +16,7 @@ def style_background_home():
                     padding:2.5rem !important;
                     border-radius: 5rem !important;
                     }
+
         </style>  
 
                 """
@@ -52,6 +53,10 @@ def style_base_layout():
             #MainMenu, footer, header {
                 visibility: hidden;
             }
+
+            h1, h2, h3, h4, p, span, label, div {
+    color: #1A1B3A !important;
+}
                 
             .block-container {
                 padding-top:1.5rem !important;    
